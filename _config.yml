@@ -1,0 +1,28 @@
+name: Kilowatts
+favicon: null
+layout_spectrum: 0.03754217247478664
+typography_spectrum: 0.07654433348216116
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5909234441351146
+  lightness: 0.7538543108385056
+  saturation: 0.17836315371096134
+  rhythmicContrast: 0.3822118933312595
+purpose: []
