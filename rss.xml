@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Kilowatts]]></title>
         <description><![CDATA[Kilowatts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kilowatts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 23:30:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 23:30:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kilowatts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Energy Efficiency Can Help Manage the Duck Curve]]></title>
+            <description><![CDATA[<article><h1>How Energy Efficiency Can Help Manage the Duck Curve</h1><p>Distributed generation is changing the load shape of the grid. Increasingly, the traditional afternoon peak is being replaced by an afternoon valley, when solar generation is at its highest. The valley period is in turn followed by a steep and problematic peak in the late afternoon, as power from solar generation decreases, people return home from work and school, and residential loads increase.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a32b10eb30e94bb4ffbfda234a4cb12a093c8dc6.png"></article>]]></description>
+            <link>http://www.greentechmedia.com/articles/read/the-grid-has-changed-how-energy-efficiency-can-help-manage-the-duck</link>
+            <guid isPermaLink="false">bb0bdf61-da03-4c20-b93d-176e6fbfe3de</guid>
+            <pubDate>Sun, 14 Feb 2016 23:30:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Masdar to grant financial aid for Pacific solar energy projects]]></title>
-            <description><![CDATA[<article><h1>Masdar to grant financial aid for Pacific solar energy projects</h1><p>UAE has entered into a partnership deal to provide $50 million fund for renewable energy projects in four Pacific island countries. The countries to be financed under UAE-Pacific Partnership Fund are Marshall Islands, Nauru, Palau, and the Solomon Islands. The grant financing was announced by Abu Dhabi Fund for Development (ADFD) during the Abu Dhabi Sustainability Week.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a42d69e740e6f1ee8535a39ce4da7effc87224a2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Masdar to grant financial aid for Pacific solar energy projects</h1><p>UAE has entered into a partnership deal to provide $50 million fund for renewable energy projects in four Pacific island countries. The countries to be financed under UAE-Pacific Partnership Fund are Marshall Islands, Nauru, Palau, and the Solomon Islands. The grant financing was announced by Abu Dhabi Fund for Development (ADFD) during the Abu Dhabi Sustainability Week.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79537e83e9a773cf21cf70cff12f9fc058439176.jpg"></article>]]></description>
             <link>http://www.greentechlead.com/solar/masdar-to-grant-financial-aid-for-pacific-solar-energy-projects-21067</link>
             <guid isPermaLink="false">da6b4fe6-2a02-4307-81e2-cd87fedf866b</guid>
             <pubDate>Sun, 14 Feb 2016 23:30:43 GMT</pubDate>
