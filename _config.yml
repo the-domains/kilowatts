@@ -2,6 +2,7 @@ name: Kilowatts
 favicon: null
 layout_spectrum: 0.03754217247478664
 typography_spectrum: 0.07654433348216116
+title: null
 cta:
   domain: null
   bucket: null
